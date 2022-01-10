@@ -21,12 +21,12 @@ const finalSpaceCharacters = [
 	{
 		id: "mooncake",
 		name: "Mooncake",
-		thumb: "/images/mooncake.png",
+		thumb: "drag-and-drop/images/mooncake.png",
 	},
 	{
 		id: "quinn",
 		name: "Quinn Ergon",
-		thumb: "/images/quinn.png",
+		thumb: "drag-and-drop/images/quinn.png",
 	},
 ];
 
