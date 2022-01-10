@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CauaRodrigues/drag-and-drop/static/css/main.f690036f.css",
-    "main.js": "/CauaRodrigues/drag-and-drop/static/js/main.649741fa.js",
-    "index.html": "/CauaRodrigues/drag-and-drop/index.html",
-    "main.f690036f.css.map": "/CauaRodrigues/drag-and-drop/static/css/main.f690036f.css.map",
-    "main.649741fa.js.map": "/CauaRodrigues/drag-and-drop/static/js/main.649741fa.js.map"
+    "main.css": "/drag-and-drop/static/css/main.f690036f.css",
+    "main.js": "/drag-and-drop/static/js/main.649741fa.js",
+    "index.html": "/drag-and-drop/index.html",
+    "main.f690036f.css.map": "/drag-and-drop/static/css/main.f690036f.css.map",
+    "main.649741fa.js.map": "/drag-and-drop/static/js/main.649741fa.js.map"
   },
   "entrypoints": [
     "static/css/main.f690036f.css",
