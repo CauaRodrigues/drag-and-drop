@@ -6,27 +6,27 @@ const finalSpaceCharacters = [
 	{
 		id: "gary",
 		name: "Gary Goodspeed",
-		thumb: "/images/gary.png",
+		thumb: "/drag-and-drop/images/gary.png",
 	},
 	{
 		id: "cato",
 		name: "Little Cato",
-		thumb: "/images/cato.png",
+		thumb: "/drag-and-drop/images/cato.png",
 	},
 	{
 		id: "kvn",
 		name: "KVN",
-		thumb: "/images/kvn.png",
+		thumb: "/drag-and-drop/images/kvn.png",
 	},
 	{
 		id: "mooncake",
 		name: "Mooncake",
-		thumb: "drag-and-drop/images/mooncake.png",
+		thumb: "/drag-and-drop/images/mooncake.png",
 	},
 	{
 		id: "quinn",
 		name: "Quinn Ergon",
-		thumb: "drag-and-drop/images/quinn.png",
+		thumb: "/drag-and-drop/images/quinn.png",
 	},
 ];
 
